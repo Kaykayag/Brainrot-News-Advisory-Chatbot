@@ -66,10 +66,10 @@ Google Colab Secrets (🔑):
 
 ### Week 1: Core Reliability & Webhooks (Current)
 
-* [/] Integrate Meta WhatsApp Cloud API inbound/outbound webhooks.
-* [/] Establish ngrok tunnel and FastAPI server on Google Colab.
+* [x] Integrate Meta WhatsApp Cloud API inbound/outbound webhooks.
+* [x] Establish ngrok tunnel and FastAPI server on Google Colab.
 * [x] Configure ChromaDB vector persistence and document ingestion. [NOTE:Still need some inprovement]
-* [/] Implement persistent user location tracking (`registered_users.json`).
+* [x] Implement persistent user location tracking (`registered_users.json`).
 * [x] Automate permanent system access token generation to replace 24-hour temporary tokens. [NOTE: as of the moment, were using temporart access token from meta developer]
 
 ### Week 2: Targeted Scraping & Social Ingestion
